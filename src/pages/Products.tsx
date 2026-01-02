@@ -58,6 +58,32 @@ const productCategories = [
     ],
   },
   {
+    id: "liver-tonics",
+    icon: Droplets,
+    title: "Liver Tonics & Liquid Supplements",
+    description: "Hepatoprotective and nutritional formulations to support liver function and overall animal health.",
+    products: [
+      {
+        name: "GOULIV-FORT Liver Tonic",
+        description: "Comprehensive liver support with liver extract, yeast extract, vitamins, and minerals. Supports immunomodulation.",
+        composition: "Liver Fraction 1.25gm + Liver Extract 125mg + Yeast Extract 40mg + Vitamin E 5mg + Vitamin B12 6.25mcg + Iron 80mg + other enzymes",
+        dosage: "As per veterinary recommendation",
+        packSizes: "500ml, 1L, 5L",
+        animalType: "Cattle, Buffalo, Sheep, Goat",
+        image: "gouliv-fort.jpeg"
+      },
+      {
+        name: "GOU-H Gold Multivitamin Supplement",
+        description: "Complete vitamin and mineral complex with B-vitamins, essential amino acids, and trace minerals for growth and productivity.",
+        composition: "Methylcobalamin 1125mcg + B-Complex Vitamins + DL-Methionine 680mg + L-Lysine 770mg + Minerals",
+        dosage: "As directed by veterinarian",
+        packSizes: "1L, 5L",
+        animalType: "All Livestock",
+        image: "gouHgold.jpeg"
+      },
+    ],
+  },
+  {
     id: "injections",
     icon: Syringe,
     title: "Injectable Solutions",
@@ -102,32 +128,6 @@ const productCategories = [
         animalType: "All Animals",
         indications: "Neuropathies, Anorexia, General Debility, Stress-related Deficiencies",
         image: "growboostinj.jpeg"
-      },
-    ],
-  },
-  {
-    id: "liver-tonics",
-    icon: Droplets,
-    title: "Liver Tonics & Liquid Supplements",
-    description: "Hepatoprotective and nutritional formulations to support liver function and overall animal health.",
-    products: [
-      {
-        name: "GOULIV-FORT Liver Tonic",
-        description: "Comprehensive liver support with liver extract, yeast extract, vitamins, and minerals. Supports immunomodulation.",
-        composition: "Liver Fraction 1.25gm + Liver Extract 125mg + Yeast Extract 40mg + Vitamin E 5mg + Vitamin B12 6.25mcg + Iron 80mg + other enzymes",
-        dosage: "As per veterinary recommendation",
-        packSizes: "500ml, 1L, 5L",
-        animalType: "Cattle, Buffalo, Sheep, Goat",
-        image: "gouliv-fort.jpeg"
-      },
-      {
-        name: "GOU-H Gold Multivitamin Supplement",
-        description: "Complete vitamin and mineral complex with B-vitamins, essential amino acids, and trace minerals for growth and productivity.",
-        composition: "Methylcobalamin 1125mcg + B-Complex Vitamins + DL-Methionine 680mg + L-Lysine 770mg + Minerals",
-        dosage: "As directed by veterinarian",
-        packSizes: "1L, 5L",
-        animalType: "All Livestock",
-        image: "gouHgold.jpeg"
       },
     ],
   },
