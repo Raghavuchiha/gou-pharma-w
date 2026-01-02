@@ -49,8 +49,8 @@ const productCategories = [
       {
         name: "Gou Flu",
         description: "Broad spectrum dewormer for treatment of Nematodiasis, Cestodiasis, and lice infestations. Pregnancy safe.",
-        composition: "Fenbendazole 3gm + Ivermectin 100mg",
-        dosage: "1 bolus as single dose",
+        composition: "Enrofloxacin 2000 mg + Flunixin Meglumine 400 mg",
+        dosage: "1.1 - 2.2 mg/kg Two times in a day for 3-4 days",
         packSizes: "10x1x1 Bolus",
         animalType: "Cattle, Buffalo, Sheep, Goat",
         image: "gouflu.jpeg"
@@ -64,10 +64,10 @@ const productCategories = [
     description: "Fast-acting parenteral formulations for critical care and therapeutic interventions.",
     products: [
       {
-        name: "Go Long Acting Enrooxacin 20% Injection",
+        name: "Gou-Flu Long Acting Enrooxacin 20% Injection",
         description: "Long-acting antibiotic for rapid treatment of severe bacterial infections. Single dose therapy.",
         composition: "Enrofloxacin 200mg/ml + Benzyl Alcohol 2% V/V",
-        dosage: "1.1-2.2 mg/kg IM twice daily for 3-4 days",
+        dosage: "5 mg/kg bw or 1ml per 20kg bw",
         packSizes: "100 ML",
         animalType: "Cattle, Buffalo, Sheep, Goat",
         indications: "Metritis, Mastitis, Lameness, G.I. Tract Infections, Respiratory Infections",
