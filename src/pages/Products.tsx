@@ -48,7 +48,7 @@ const productCategories = [
       },
       {
         name: "Gou Flu",
-        description: "Broad spectrum dewormer for treatment of Nematodiasis, Cestodiasis, and lice infestations. Pregnancy safe.",
+        description: "Fast pain relief and infection control. Clinically proven for faster pain relief in 6 hours.",
         composition: "Enrofloxacin 2000 mg + Flunixin Meglumine 400 mg",
         dosage: "1.1 - 2.2 mg/kg Two times in a day for 3-4 days",
         packSizes: "10x1x1 Bolus",
